@@ -12,4 +12,4 @@ var t;!function(e,s){"object"==typeof exports&&"object"==typeof module?module.ex
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./node_modules/swiper/css/swiper.min.css");var e=i(require("swiper")),r=i(require("typed.js"));function i(e){return e&&e.__esModule?e:{default:e}}var s=new e.default(".swiper-container",{slidesPerView:1,initialSlide:4,loop:!0,grabCursor:!0,navigation:{nextEl:".swiper-button-next",prevEl:".swiper-button-prev"}}),t={strings:["hello friend, ^250 this is my photography portfolio."],typeSpeed:30,showCursor:!1},n=new r.default(".friend",t);
 },{"./node_modules/swiper/css/swiper.min.css":"CQOS","swiper":"aY73","typed.js":"eAn7"}]},{},["Focm"], null)
-//# sourceMappingURL=photo_portfolio.bd6637f8.js.map
+//# sourceMappingURL=/photo_portfolio.bd6637f8.js.map
